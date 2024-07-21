@@ -247,7 +247,7 @@ $conn->close();
 
 ### Usage Instructions
 
-1. Open `index.html` in a web browser (preferably Google Chrome).
+1. Open `index.html` in a web browser.
 2. Select the desired language from the drop-down menu.
 3. Click the "Start Recording" button and begin speaking.
 4. The transcribed text will appear in the text area.
