@@ -252,3 +252,9 @@ $conn->close();
 3. Click the "Start Recording" button and begin speaking.
 4. The transcribed text will appear in the text area.
 5. Click the "Save to Database" button to store the transcription in the database.
+
+<img width="959" alt="web page 2" src="https://github.com/user-attachments/assets/f4f096d5-2fd7-41cd-bf9a-7aa597592522">
+
+<img width="810" alt="dataset" src="https://github.com/user-attachments/assets/620c6ed6-8fa5-4167-bbc5-88fcc92b9589">
+
+
